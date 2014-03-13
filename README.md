@@ -1,4 +1,4 @@
-Para ejecutar cada programa primero RB en el proyecto ClasesEsenialesII, Run As-> Java Aplication:
+Para ejecutar cada programa primero RB en el proyecto ClasesEsencialesII, Run As-> Java Aplication:
 
 -> Para el Ejecicio8 Ejecutamos PruebaThreads.java
 
